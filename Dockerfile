@@ -11,3 +11,4 @@ EXPOSE 80
 #Container starten
 CMD [ "nginx","-g","daemon off;" ]
 
+#END
